@@ -1,6 +1,6 @@
 # SnapCute Cam
 
-Fast, cute, shareable web camera MVP with filters, draggable stickers, and one-tap capture.
+Fast, cute, shareable web camera MVP with filters, charms, and one-tap capture.
 
 ## Run locally
 Camera access requires a secure context, so use localhost:
@@ -14,7 +14,7 @@ Then open `http://localhost:5173` in your browser.
 
 ## Features
 - Live camera preview with cute filters
-- Draggable emoji stickers with resize (scroll wheel/trackpad)
+- Background charms
 - One-tap capture and download
 - Mirror preview toggle and camera flip
 
