@@ -16,12 +16,5 @@ A desktop‑first web camera app with real‑time pastel filters, animated charm
 - getUserMedia + MediaRecorder  
 - Tailwind (via CDN)  
 
-## Run locally
-Camera access requires a secure context, so use localhost:
-
-```bash
-cd /Users/niharikakanwar/snap
-python3 -m http.server 5173
-```
-
-Then open `http://localhost:5173` in your browser.
+## To access
+- https://niharika-kanw.github.io/charmbooth/
