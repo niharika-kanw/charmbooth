@@ -6,7 +6,7 @@ A desktop‑first web camera app with real‑time pastel filters, animated charm
 - Live camera preview with pastel filters  
 - Animated charms (hearts, sparkles, bubbles, stars, flowers)  
 - Countdown photo capture with gallery  
-- 3–5s clip recording using MediaRecorder  
+- 4s clip recording using MediaRecorder  
 - Mirror toggle + camera restart  
 - Desktop‑first UI with responsive layout  
 
